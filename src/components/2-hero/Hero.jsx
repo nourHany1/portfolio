@@ -38,7 +38,7 @@ const Hero = () => {
         </motion.p>
 
         <button className="btn">
-          <a href="https://drive.google.com/file/d/1ZoOCWp36EZYpcWOnGc4OkSaLz5XiOG3q/view" target="blank">Open and Download CV</a>
+          <a href="https://drive.google.com/file/d/13AkN0evWjkdgFS-4dCyPfJ06J_1sWEIS/view?usp=sharing" target="blank">Open and Download CV</a>
         </button>
 
         <div className="all-icons flex">
