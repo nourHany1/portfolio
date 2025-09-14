@@ -1,0 +1,34 @@
+.skills {
+  text-align: center;
+}
+.skills h1 {
+  text-align: start;
+  margin-bottom: 3rem;
+  color: var(--title);
+}
+
+.skills-container {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin: 20px 0;
+  flex-wrap: wrap
+}
+
+.skill img {
+  width: 60px;
+  height: 60px;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.skill img:hover {
+  transform: scale(1.2);
+}
+
+.skill-name {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--subtitle);
+}
