@@ -38,12 +38,12 @@ const Hero = () => {
         </motion.p>
 
         <button className="btn">
-          <a href="https://drive.google.com/file/d/13AkN0evWjkdgFS-4dCyPfJ06J_1sWEIS/view?usp=sharing" target="blank">Open and Download CV</a>
+          <a href="https://drive.google.com/file/d/1TYSM5YnxHuYCeD6qb9HJNPv9MsOQe_7V/view" target="blank">Open and Download CV</a>
         </button>
 
         <div className="all-icons flex">
           <a href="https://github.com/NourHany1" target="blank"  className="icon icon-github"></a>
-          <a href="https://www.linkedin.com/in/nour-hany-75657a384/" target="blank" className="icon icon-linkedin"></a>
+          <a href="https://www.linkedin.com/in/nour-hany-eng/" target="blank" className="icon icon-linkedin"></a>
           <a href="https://wa.me/201124362426" target="blank"  style={{ fontSize: "25px"}} className="icon fa-brands fa-whatsapp">
           </a>
         </div>
